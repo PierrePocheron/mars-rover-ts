@@ -1,5 +1,8 @@
 # 🚀 Mars Rover TS Fork - Ynov Architecture Logicielle
 
+Dans le cadre du cours d'architecture logiciel nous avons travaillé sur un rover en typescript.
+Le but du projet à été de continuellement implémenter des bonnes pratiques d'architectures en faisant un refacto continu.
+
 ## 🧑🏽‍💻 `Developpement Context`
 
 ### _Team :_
